@@ -1,4 +1,4 @@
-ceno-browser-about-ceno-home-title = Ceno Homepage
+ceno-browser-about-ceno-home-title = Ceno página inicial
 
 ceno-browser-about-ceno-home-description-1 = O Ceno tem dois modos de funcionamento - <strong>Público</strong> e <strong>Pessoal</strong>.
 ceno-browser-about-ceno-home-description-2 = Pode alternar facilmente entre ambos. 

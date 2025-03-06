@@ -1,4 +1,4 @@
-ceno-browser-about-ceno-home-title = Ceno Homepage
+ceno-browser-about-ceno-home-title = سنو صفحه خانگی
 
 ceno-browser-about-ceno-home-description-1 = سنو دو حالت عملکرد دارد – <strong>عمومی</strong> و <strong>شخصی</strong>.
 ceno-browser-about-ceno-home-description-2 = و می‌توانید به راحتی بین آن‌ها جابه‌جا شوید.
