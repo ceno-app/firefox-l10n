@@ -1,4 +1,4 @@
-ceno-browser-about-ceno-home-title = Ceno Homepage
+ceno-browser-about-ceno-home-title = Ceno web sitesi
 
 ceno-browser-about-ceno-home-description-1 = Ceno iki kipte çalışabilir: <strong>Herkese açık</strong> ve <strong>Kişisel</strong>.
 ceno-browser-about-ceno-home-description-2 = Aralarında kolayca geçiş yapabilirsiniz.

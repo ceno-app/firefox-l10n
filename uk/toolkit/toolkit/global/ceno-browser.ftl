@@ -1,4 +1,4 @@
-ceno-browser-about-ceno-home-title = Ceno Homepage
+ceno-browser-about-ceno-home-title = Ceno Домівка
 
 ceno-browser-about-ceno-home-description-1 = Ceno має два режими роботи - <strong>Публічний</strong> і <strong>Персонал</strong>.
 ceno-browser-about-ceno-home-description-2 = Ви можете легко зв’язатися з ними.

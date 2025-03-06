@@ -1,4 +1,4 @@
-ceno-browser-about-ceno-home-title = Ceno Homepage
+ceno-browser-about-ceno-home-title = Ceno Домашняя страница
 
 ceno-browser-about-ceno-home-description-1 = У Ceno есть два режима работы - <strong>Публичный</strong> и <strong>Личный</strong>.
 ceno-browser-about-ceno-home-description-2 = Вы можете легко переключаться между ними.
